@@ -7,5 +7,6 @@ def hello():
 def main():
     hello()  # Fill in this blank to call the hello() function
 
+#this function will call the main() function when it's ran directly
 if __name__ == "__main__":
     main()
